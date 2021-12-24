@@ -1,4 +1,4 @@
-# 실무자를 위한 파이썬 100제 풀이
+# Advanced Python Skills
 ***
 
 <권장 기반 지식>
