@@ -8,7 +8,7 @@
 <center><img src="https://user-images.githubusercontent.com/45956041/147314281-465c972d-357e-4c40-b938-18e2ee99db18.png" width="1000" height="500"></center>
 이미지의 태그를 보니 되게 여러가지 속성이 있는것을 알 수 있습니다. 
 
-<center><img src="https://user-images.githubusercontent.com/45956041/147314434-907447da-7229-4c61-9da3-d472ac6b3663.png" width="1000" height="500"></center>
+<center><img src="https://user-images.githubusercontent.com/45956041/147314434-907447da-7229-4c61-9da3-d472ac6b3663.png" width="1800" height="300"></center>
 
 제가 선택한 이미지의 레이아웃 html을 자세히 보면 아래와 같습니다.저는 이 태그를 지정하기 위해서 'alt'라는 속성을 이용하여 지정할 것입니다. 그리고, <img>태그에서 이미지를 불러올 주소/디렉토리를 지정하는 속성요소는 'src'입니다.그렇기 때문에 불러온 <img>태그에서 'src'속성의 값을 불러와야합니다.
 그렇다면 지난 장에서 해보았던 find()메소드를 이용해서 다운로드 하고자 하는 이미지의 <img>태그를 지정하고, src의 값을 가져와 보겠습니다.
@@ -55,7 +55,8 @@ print(img_tag.attrs)
 ```python3
 print(img_tag.attrs['src'])
 ```
-위 코드를 추가로 작성해 실행하면 'src'값이 나오는것을 볼 수 있습니다. 이제 앞에 https:를 붙여서 이미지를 다운로드 해보겠습니다.
+위 코드를 추가로 작성해 실행하면 'src'값이 나오는것을 볼 수 있습니다. 이제 앞에 https:를 붙여서 이미지를 다운로드 해보겠습니다. Response객체의 content 필드에는 이미지가 binary형태로 저장이 되어있습니다.
+이 binary 값을 가져와야 하므로, .content값을 통해 이미지를 저장하는 것입니다.
 ```python3
 import requests,sys
 from bs4 import BeautifulSoup
