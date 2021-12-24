@@ -9,7 +9,7 @@
 <center><img src="https://user-images.githubusercontent.com/45956041/147309900-6827a3ef-66f9-443c-a617-f04f2f342c2b.png" width="1000" height="800"></center>
 
 
-BeautifulSoup객체에 find()메소드에 HTML태그를 전달하면, 해당 태그에 대해 가장 첫번째로 만나는 값을 반환하게 된다. 자 우선 [BeautifulSoup Documentation](https://beautiful-soup-4.readthedocs.io/en/latest/index.html)에 기재된 find()메소드에 대해 살펴볼까요?
+BeautifulSoup객체에 find()메소드에 HTML태그를 전달하면, 해당 태그에 대해 가장 첫번째로 만나는 값을 반환하게 된다. 자 우선 [BeautifulSoup Documentation](https://beautiful-soup-4.readthedocs.io/en/latest/index.html)에 기재된 find()메소드에 대해 살펴볼까요? 자신이 사용하고자 하는 모듈 / 클래스가 있다면 Document를 한번 읽어보고 사용하는 습관을 
 
 <center><img src="https://user-images.githubusercontent.com/45956041/147311648-970a9b36-9bdd-4ff5-9de9-b3d954c7b544.png" width="500" height="800"></center>
 
