@@ -16,7 +16,7 @@ BeautifulSoup객체에 find()메소드에 HTML태그를 전달하면, 해당 태
 정리를 해보겠습니다. 우선 매개변수입니다
 
   - name : 태그의 이름을 입력합니다
-  - attrs : 태그에 대한 CSS Selector를 입력합니다
+  - attrs : 태그에 대한 CSS Selector 혹은 HTML tag attribute(속성)를 입력합니다
   - recursive : 자식태그까지에 대한 재귀 순환에 대한 여부입니다. default는 true이며, false로 변경시 name,attrs로 지정된 최상위 태그 이후 자식태그에 대한 검색을 하지 않습니다
   - string : 문자열값을 가지고 검색을 합니다. re객체를 사용해서 전달할 수 도 있습니다.
 
