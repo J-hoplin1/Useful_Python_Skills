@@ -1,6 +1,12 @@
 # 실무자를 위한 파이썬 100제 풀이
 ***
 
+<권장 기반 지식>
+
+- Python : 클래스, 파일 입출력까지 모두 끝내보신분
+- Web : HTML,CSS에 대한 
+***
+
 📚 Chapter 1,2 : [웹서버에 요청 / 응답하기](https://github.com/J-hoplin1/100_PythonProblem_for_working_level_staff/blob/main/Markdowns/ch1_2.md)
 
 📚 Chapter 3: [로봇 배제 표준](https://github.com/J-hoplin1/100_PythonProblem_for_working_level_staff/blob/main/Markdowns/ch3.md)
