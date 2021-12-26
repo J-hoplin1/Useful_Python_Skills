@@ -16,3 +16,5 @@
 📚 Chapter 5 : [Chrome Developer Tool](https://github.com/J-hoplin1/100_PythonProblem_for_working_level_staff/blob/main/Markdowns/ch5.md)
 
 📚 Chapter 6 : [웹상의 이미지 다운로드 하기](https://github.com/J-hoplin1/100_PythonProblem_for_working_level_staff/blob/main/Markdowns/ch6.md)
+
+📚 Chapter 7 : [모든 하이퍼링크 추출하기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch7.md)
