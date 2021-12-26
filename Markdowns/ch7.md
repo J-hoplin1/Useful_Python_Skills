@@ -31,8 +31,7 @@ get_a_tags_links = [i.get('href') for i in get_all_a_tags]
 print(*get_a_tags_links,sep='\n') #수많은 url들
 print(len(get_a_tags_links)) # 1156 (실행 시점에 따라 달라질 수 있음)
   ```
-  되게 많은 url들이 검색됩니다. 이번에는 html속성까지 더해서 검색을 해보도록 하겠습니다. 예를 들어 "/wiki/"라는 부분이 들어가는 url만 찾고싶으며, 최대 5개까지만 검색을 하고싶다고 가정을 합시다. 이를 
-  위해서는 당연히 find_all()메소드의 attrs, limit 속성을 활용해 주어야겠죠? 그리고 추가적으로 /wiki/라는 부분이 들어가는 url만 찾기 위해서는 re라는 모듈을 사용해야합니다. re는 Regular Expression,즉 정규표현식을 검사하는 모듈입니다. 이 정규표현식에 대해서는 추후 다뤄보도록 하겠습니다. 
+  되게 많은 url들이 검색됩니다. 이번에는 html속성까지 더해서 검색을 해보도록 하겠습니다. 예를 들어 **"/wiki/"라는 부분이 들어가는 url만 찾고싶으며** , **최대 5개까지만 검색**을 하고싶다고 가정을 합시다. 이를 위해서는 당연히 find_all()메소드의 attrs, limit 속성을 활용해 주어야겠죠? 그리고 추가적으로 /wiki/라는 부분이 들어가는 url만 찾기 위해서는 re라는 모듈을 사용해야합니다. re는 Regular Expression,즉 정규표현식을 검사하는 모듈입니다. 이 정규표현식에 대해서는 추후 다뤄보도록 하겠습니다. 
   find_all()뿐만 아니라 find()메소드 또한 attrs속성에 대해서 re모듈을 통해 정규표현식 검사를 넣어줄 수 있습니다.우선 지금은 re.compile(정규표현식) 을 하면 입력한 정규표현식에 알맞는 조건을 가진 문자열일 경우 true를 반환한다는것만
   알아두시면 됩니다. 여기서 실행될때 흐름은, a태그를 검색하고, href속성을 검색한 다음, 해당 href속성에 대해 정규표현식 조건에 유효하면 해당 href값을 저장하고, 아닌 경우 무시한다고 생각하시면 됩니다.
   정규표현식에 대해 알아보고 싶으신 분들은 [여기](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=is_king&logNo=221566914429) 링크를 들어가셔서
