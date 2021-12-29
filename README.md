@@ -20,3 +20,5 @@
 📚 Chapter 7 : [모든 하이퍼링크 추출하기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch7.md)
 
 📚 Chapter 8,9 : [CSS Selector 활용하기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch8_9.md)
+
+📚 Chapter 10 : [과제 : 구글 뉴스 스크레이핑](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch10.md)
