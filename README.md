@@ -24,3 +24,5 @@
 📚 Chapter 10 : [과제 : 구글 뉴스 스크레이핑](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch10.md)
 
 📚 Chapter 11 : [Chronium Web Driver로 로그인 해보기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch11.md)
+
+📚 Chapter 12 : [다나와에서 나의 관심목록 가져오기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch12.md)
