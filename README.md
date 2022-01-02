@@ -5,6 +5,7 @@
 
 - Python : 클래스, 파일 입출력까지 모두 끝내보신분
 - Web : HTML,CSS에 대한 기초지식들  
+- 저는 실습환경이 Mac OS입니다. 윈도우에서 구동이 안되는 코드가 있을수도 있습니다.
 ***
 
 📚 Chapter 1,2 : [웹서버에 요청 / 응답하기](https://github.com/J-hoplin1/100_PythonProblem_for_working_level_staff/blob/main/Markdowns/ch1_2.md)
