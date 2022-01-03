@@ -36,6 +36,6 @@
 
 💻 Chapter 14 : [Project - 한국은행 통계지표 100대 통계지표 검색 / csv저장 프로그램 만들기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch14.md)
 
-### 🧑‍💻 데이터 정리 / 시각화하기
+### 🧑‍💻 Part2 : 데이터 정리 / 시각화하기
 
 📚 Chapter 15 : [Pandas First Step](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch15.md)
