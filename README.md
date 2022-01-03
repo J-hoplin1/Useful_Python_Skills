@@ -10,6 +10,7 @@
 📚 : 이론<br>
 💻 : 프로젝트 챕터
 ***
+### 🧑‍💻 Part1 : Web Scraping을 통한 비정형 데이터 수집
 
 📚 Chapter 1,2 : [웹서버에 요청 / 응답하기](https://github.com/J-hoplin1/100_PythonProblem_for_working_level_staff/blob/main/Markdowns/ch1_2.md)
 
@@ -34,3 +35,7 @@
 📚 Chapter 13 : [한국은행 통계지표 100대 통계지표 엑셀파일 다운로드하기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch13.md)
 
 💻 Chapter 14 : [Project - 한국은행 통계지표 100대 통계지표 검색 / csv저장 프로그램 만들기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch14.md)
+
+### 🧑‍💻 데이터 정리 / 시각화하기
+
+📚 Chapter 15 : [Pandas First Step](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch15.md)
