@@ -39,3 +39,5 @@
 ### 🧑‍💻 Part2 : 데이터 정리 / 시각화하기
 
 📚 Chapter 15 : [Pandas First Step](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch15.md)
+
+📚 Chapter 16 : [CSV 요약정보 살펴보기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Markdowns/ch16/ch16_View_DataFrame_Contents.ipynb)
