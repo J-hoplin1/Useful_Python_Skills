@@ -1,0 +1,14 @@
+{
+    "Item 1": {
+        "Image URL": "http://prod.danawa.com/info/?pcode=15594638",
+        "Item Title": "인텔 코어i7-12세대 12700K (엘더레이크) (정품)",
+        "Item Spec": "인텔(소켓1700) / 10nm(인텔7) / 8+4코어 / 16+4쓰레드 / 기본 클럭: 3.6GHz / 최대 클럭: 5.0GHz / L3 캐시: 25MB / TDP: 125W / PCIe5.0, 4.0 / 메모리 규격: DDR5, DDR4 / 4800, 3200MHz / 내장그래픽: 탑재 / 인텔 UHD 770 / 기술 지원: 하이퍼스레딩, 옵테인 / 쿨러: 미포함 / 출시가: 409~419달러(VAT별도)",
+        "Item Cost": "488,850원"
+    },
+    "Item 2": {
+        "Image URL": "http://prod.danawa.com/info/?pcode=13463144",
+        "Item Title": "이엠텍 지포스 RTX 3060 STORM X Dual OC D6 12GB",
+        "Item Spec": "RTX 3060 / 8nm / 부스트클럭: 1837MHz / 스트림 프로세서: 3584개 / PCIe4.0x16 / GDDR6(DDR6) / 출력단자: HDMI2.1, DP1.4 / 부가기능: 제로팬(0-dB기술), 8K 해상도 지원, 4K 해상도 지원, HDR 지원, HDCP 2.3 / 사용전력: 최대 180W / 정격파워 550W 이상 / 전원 포트: 8핀 x1개 / 전원부: 7페이즈 / 2개 팬 / 가로(길이): 245mm / 백플레이트 / LED 라이트 / Dr.MOS 모스펫 / ThunderMaster / A/S 3년 / 2021년 7월부로 LHR(채굴제한) 모델 유통",
+        "Item Cost": "978,820원"
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "News 1": {
+        "title": "\"오미크론, 美 코로나19 사례 58.6% 차지\"-CDC",
+        "link": "https://news.google.com/articles/CBMiqwFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVDJTk4JUE0JUVCJUFGJUI4JUVEJTgxJUFDJUVCJUExJUEwLSVFNyVCRSU4RS0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTgxOS0lRUMlODIlQUMlRUIlQTElODAtNTgtNi0lRUMlQjAlQTglRUMlQTclODAtY2RjL2FyLUFBU2RnM3XSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 2": {
+        "title": "코로나 반사효과, 펜션 사장님 41% 늘었다",
+        "link": "https://news.google.com/articles/CBMixAFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4LSVFQiVCMCU5OCVFQyU4MiVBQyVFRCU5QSVBOCVFQSVCMyVCQy0lRUQlOEUlOUMlRUMlODUlOTgtJUVDJTgyJUFDJUVDJTlFJUE1JUVCJThCJTk4LTQxLSVFQiU4QSU5OCVFQyU5NyU4OCVFQiU4QiVBNC9hci1BQVNkYWts0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 3": {
+        "title": "캐나다 퀘벡주의 고육지책 \"코로나 걸린 의료진 계속 근무\"",
+        "link": "https://news.google.com/articles/CBMihgJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVDJUJBJTkwJUVCJTgyJTk4JUVCJThCJUE0LSVFRCU4MCU5OCVFQiVCMiVBMSVFQyVBMyVCQyVFQyU5RCU5OC0lRUElQjMlQTAlRUMlOUMlQTElRUMlQTclODAlRUMlQjElODUtJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4LSVFQSVCMSVCOCVFQiVBNiVCMC0lRUMlOUQlOTglRUIlQTMlOEMlRUMlQTclODQtJUVBJUIzJTg0JUVDJTg2JThELSVFQSVCNyVCQyVFQiVBQyVCNC9hci1BQVNkTnI30gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 4": {
+        "title": "전통시장 '청년몰' 코로나에도 선방… 생존율 해마다 상승",
+        "link": "https://news.google.com/articles/CBMiggJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVDJUEwJTg0JUVEJTg2JUI1JUVDJThCJTlDJUVDJTlFJUE1LSVFQyVCMiVBRCVFQiU4NSU4NCVFQiVBQSVCMC0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTglRUMlOTclOTAlRUIlOEYlODQtJUVDJTg0JUEwJUVCJUIwJUE5LSVFQyU4MyU5RCVFQyVBMSVCNCVFQyU5QyVBOC0lRUQlOTUlQjQlRUIlQTclODglRUIlOEIlQTQtJUVDJTgzJTgxJUVDJThBJUI5L2FyLUFBU2NRbkTSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 5": {
+        "title": "'코로나 의료계 과로' 보너스·휴가 금지…각국 대처 천차만별",
+        "link": "https://news.google.com/articles/CBMihwJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4LSVFQyU5RCU5OCVFQiVBMyU4QyVFQSVCMyU4NC0lRUElQjMlQkMlRUIlQTElOUMtJUVCJUIzJUI0JUVCJTg0JTg4JUVDJThBJUE0LSVFRCU5QyVCNCVFQSVCMCU4MC0lRUElQjglODglRUMlQTclODAtJUVBJUIwJTgxJUVBJUI1JUFELSVFQiU4QyU4MCVFQyVCMiU5OC0lRUMlQjIlOUMlRUMlQjAlQTglRUIlQTclOEMlRUIlQjMlODQvYXItQUFTY0JRM9IBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 6": {
+        "title": "안철수 \"매년 25조~30조원 코로나19 재난대응 예산 마련\"",
+        "link": "https://news.google.com/articles/CBMi6AFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvb3RoZXIvJUVDJTk1JTg4JUVDJUIyJUEwJUVDJTg4JTk4LSVFQiVBNyVBNCVFQiU4NSU4NC0yNSVFQyVBMSVCMC0zMCVFQyVBMSVCMCVFQyU5QiU5MC0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTgxOS0lRUMlOUUlQUMlRUIlODIlOUMlRUIlOEMlODAlRUMlOUQlOTEtJUVDJTk4JTg4JUVDJTgyJUIwLSVFQiVBNyU4OCVFQiVBMCVBOC9hci1BQVNkUXlt0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 7": {
+        "title": "독일, 화이자 '먹는 코로나 치료제' 100만회분 주문",
+        "link": "https://news.google.com/articles/CBMi2wFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVCJThGJTg1JUVDJTlEJUJDLSVFRCU5OSU5NCVFQyU5RCVCNCVFQyU5RSU5MC0lRUIlQTglQjklRUIlOEElOTQtJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4LSVFQyVCOSU5OCVFQiVBMyU4QyVFQyVBMCU5Qy0xMDAlRUIlQTclOEMlRUQlOUElOEMlRUIlQjYlODQtJUVDJUEzJUJDJUVCJUFDJUI4L2FyLUFBU2RRMHrSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 8": {
+        "title": "뒤처진 국산 '먹는 코로나 치료제', 성공 열쇠는 가격",
+        "link": "https://news.google.com/articles/CBMi8QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVCJTkyJUE0JUVDJUIyJTk4JUVDJUE3JTg0LSVFQSVCNSVBRCVFQyU4MiVCMC0lRUIlQTglQjklRUIlOEElOTQtJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4LSVFQyVCOSU5OCVFQiVBMyU4QyVFQyVBMCU5Qy0lRUMlODQlQjElRUElQjMlQjUtJUVDJTk3JUI0JUVDJTg3JUEwJUVCJThBJTk0LSVFQSVCMCU4MCVFQSVCMiVBOS9hci1BQVNkM3lH0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 9": {
+        "title": "“증상 가볍다” 휴 잭맨 코로나 확진...3주 전 부스터샷 접종 받아",
+        "link": "https://news.google.com/articles/CBMiigJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVDJUE2JTlEJUVDJTgzJTgxLSVFQSVCMCU4MCVFQiVCMyU4RCVFQiU4QiVBNC0lRUQlOUMlQjQtJUVDJTlFJUFEJUVCJUE3JUE4LSVFQyVCRCU5NCVFQiVBMSU5QyVFQiU4MiU5OC0lRUQlOTklOTUlRUMlQTclODQtMyVFQyVBMyVCQy0lRUMlQTAlODQtJUVCJUI2JTgwJUVDJThBJUE0JUVEJTg0JUIwJUVDJTgzJUI3LSVFQyVBMCU5MSVFQyVBMiU4NS0lRUIlQjAlOUIlRUMlOTUlODQvYXItQUFTZE5tUtIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 10": {
+        "title": "日 정부 “코로나 백신 등 효능 추정만 가능해도 승인”",
+        "link": "https://news.google.com/articles/CBMi7AFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUU2JTk3JUE1LSVFQyVBMCU5NSVFQiVCNiU4MC0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTgtJUVCJUIwJUIxJUVDJThCJUEwLSVFQiU5MyVCMS0lRUQlOUElQTglRUIlOEElQTUtJUVDJUI2JTk0JUVDJUEwJTk1JUVCJUE3JThDLSVFQSVCMCU4MCVFQiU4QSVBNSVFRCU5NSVCNCVFQiU4RiU4NC0lRUMlOEElQjklRUMlOUQlQjgvYXItQUFTYll0SNIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 11": {
+        "title": "[속보] 코로나 신규 확진 5409명… 위중증 1151명, 또 '최다'",
+        "link": "https://news.google.com/articles/CBMi2gFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbGl2aW5nLyVFQyU4NiU4RCVFQiVCMyVCNC0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTgtJUVDJThCJUEwJUVBJUI3JTlDLSVFRCU5OSU5NSVFQyVBNyU4NC01NDA5JUVCJUFBJTg1LSVFQyU5QyU4NCVFQyVBNCU5MSVFQyVBNiU5RC0xMTUxJUVCJUFBJTg1LSVFQiU5OCU5MC0lRUMlQjUlOUMlRUIlOEIlQTQvYXItQUFTZEZlUNIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 12": {
+        "title": "\"코로나 물렀거라... 범 내려온다\"",
+        "link": "https://news.google.com/articles/CBMiogFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4LSVFQiVBQyVCQyVFQiVBMCU4MCVFQSVCMSVCMCVFQiU5RCVCQy0lRUIlQjIlOTQtJUVCJTgyJUI0JUVCJUEwJUE0JUVDJTk4JUE4JUVCJThCJUE0L2FyLUFBU2RzVHrSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 13": {
+        "title": "'코로나 확진' 다니 알베스, 복귀전은 다음 기회로",
+        "link": "https://news.google.com/articles/CBMi5AFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9zb2NjZXIvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4LSVFRCU5OSU5NSVFQyVBNyU4NC0lRUIlOEIlQTQlRUIlOEIlODgtJUVDJTk1JThDJUVCJUIyJUEwJUVDJThBJUE0LSVFQiVCMyVCNSVFQSVCNyU4MCVFQyVBMCU4NCVFQyU5RCU4MC0lRUIlOEIlQTQlRUMlOUQlOEMtJUVBJUI4JUIwJUVEJTlBJThDJUVCJUExJTlDL2FyLUFBU2MwOU7SAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 14": {
+        "title": "오후 9시까지 4711명 코로나19 확진",
+        "link": "https://news.google.com/articles/CBMioQFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVDJTk4JUE0JUVEJTlCJTg0LTklRUMlOEIlOUMlRUElQjklOEMlRUMlQTclODAtNDcxMSVFQiVBQSU4NS0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTgxOS0lRUQlOTklOTUlRUMlQTclODQvYXItQUFTZDNzddIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 15": {
+        "title": "프랑스, 코로나 확진자 '10만'...리그1 \"관중 축소\"",
+        "link": "https://news.google.com/articles/CBMiywFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9zb2NjZXIvJUVEJTk0JTg0JUVCJTlFJTkxJUVDJThBJUE0LSVFQyVCRCU5NCVFQiVBMSU5QyVFQiU4MiU5OC0lRUQlOTklOTUlRUMlQTclODQlRUMlOUUlOTAtMTAlRUIlQTclOEMlRUIlQTYlQUMlRUElQjclQjgxLSVFQSVCNCU4MCVFQyVBNCU5MS0lRUMlQjYlOTUlRUMlODYlOEMvYXItQUFTYlpIZNIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 16": {
+        "title": "삼성전자, 中시안 반도체 사업장 생산라인 축소…코로나 봉쇄 영향",
+        "link": "https://news.google.com/articles/CBMipQJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVDJTgyJUJDJUVDJTg0JUIxJUVDJUEwJTg0JUVDJTlFJTkwLSVFNCVCOCVBRCVFQyU4QiU5QyVFQyU5NSU4OC0lRUIlQjAlOTglRUIlOEYlODQlRUMlQjIlQjQtJUVDJTgyJUFDJUVDJTk3JTg1JUVDJTlFJUE1LSVFQyU4MyU5RCVFQyU4MiVCMCVFQiU5RCVCQyVFQyU5RCVCOC0lRUMlQjYlOTUlRUMlODYlOEMtJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4LSVFQiVCNCU4OSVFQyU4NyU4NC0lRUMlOTglODElRUQlOTYlQTUvYXItQUFTZEpoQdIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 17": {
+        "title": "코로나에 대한 모든 것, '타임 캡슐'에 담아 후대에",
+        "link": "https://news.google.com/articles/CBMi5gFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4JUVDJTk3JTkwLSVFQiU4QyU4MCVFRCU5NSU5Qy0lRUIlQUElQTglRUIlOTMlQTAtJUVBJUIyJTgzLSVFRCU4MyU4MCVFQyU5RSU4NC0lRUMlQkElQTElRUMlOEElOTAtJUVDJTk3JTkwLSVFQiU4QiVCNCVFQyU5NSU4NC0lRUQlOUIlODQlRUIlOEMlODAlRUMlOTclOTAvYXItQUFTY2Fkc9IBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 18": {
+        "title": "'제로 코로나' 中, 봉쇄령 1300만 시안 이어 북부지역서 확대 적용",
+        "link": "https://news.google.com/articles/CBMijAJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVDJUEwJTlDJUVCJUExJTlDLSVFQyVCRCU5NCVFQiVBMSU5QyVFQiU4MiU5OC0lRTQlQjglQUQtJUVCJUI0JTg5JUVDJTg3JTg0JUVCJUEwJUI5LTEzMDAlRUIlQTclOEMtJUVDJThCJTlDJUVDJTk1JTg4LSVFQyU5RCVCNCVFQyU5NiVCNC0lRUIlQjYlODElRUIlQjYlODAlRUMlQTclODAlRUMlOTclQUQlRUMlODQlOUMtJUVEJTk5JTk1JUVCJThDJTgwLSVFQyVBMCU4MSVFQyU5QSVBOS9hci1BQVNjbEVL0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 19": {
+        "title": "AZ 백신 덕분?…영국 최근 코로나 사망률 낮은 이유",
+        "link": "https://news.google.com/articles/CBMi3QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbGl2aW5nL2F6LSVFQiVCMCVCMSVFQyU4QiVBMC0lRUIlOEQlOTUlRUIlQjYlODQtJUVDJTk4JTgxJUVBJUI1JUFELSVFQyVCNSU5QyVFQSVCNyVCQy0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTgtJUVDJTgyJUFDJUVCJUE3JTlEJUVCJUE1JUEwLSVFQiU4MiVBRSVFQyU5RCU4MC0lRUMlOUQlQjQlRUMlOUMlQTAvYXItQUFTYkRRV9IBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 20": {
+        "title": "파우치 \"美 국내선에서 코로나19 백신 의무화 방안 검토해야\"",
+        "link": "https://news.google.com/articles/CBMiiAJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVEJThDJThDJUVDJTlBJUIwJUVDJUI5JTk4LSVFNyVCRSU4RS0lRUElQjUlQUQlRUIlODIlQjQlRUMlODQlQTAlRUMlOTclOTAlRUMlODQlOUMtJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4MTktJUVCJUIwJUIxJUVDJThCJUEwLSVFQyU5RCU5OCVFQiVBQyVCNCVFRCU5OSU5NC0lRUIlQjAlQTklRUMlOTUlODgtJUVBJUIyJTgwJUVEJTg2JUEwJUVEJTk1JUI0JUVDJTk1JUJDL2FyLUFBU2JDSkrSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 21": {
+        "title": "코로나19에도 고용창출·매출성장 일군 관광벤처 어디?",
+        "link": "https://news.google.com/articles/CBMi9wFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4MTklRUMlOTclOTAlRUIlOEYlODQtJUVBJUIzJUEwJUVDJTlBJUE5JUVDJUIwJUJEJUVDJUI2JTlDLSVFQiVBNyVBNCVFQyVCNiU5QyVFQyU4NCVCMSVFQyU5RSVBNS0lRUMlOUQlQkMlRUElQjUlQjAtJUVBJUI0JTgwJUVBJUI0JTkxJUVCJUIyJUE0JUVDJUIyJTk4LSVFQyU5NiVCNCVFQiU5NCU5NC9hci1BQVNkRm1y0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 22": {
+        "title": "코로나19 이후 레저·와인·명품·게임기 수입 급증…3G폰은 왜?",
+        "link": "https://news.google.com/articles/CBMigAJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4MTktJUVDJTlEJUI0JUVEJTlCJTg0LSVFQiVBMCU4OCVFQyVBMCU4MC0lRUMlOTklODAlRUMlOUQlQjgtJUVCJUFBJTg1JUVEJTkyJTg4LSVFQSVCMiU4QyVFQyU5RSU4NCVFQSVCOCVCMC0lRUMlODglOTglRUMlOUUlODUtJUVBJUI4JTg5JUVDJUE2JTlELTNnJUVEJThGJUIwJUVDJTlEJTgwLSVFQyU5OSU5Qy9hci1BQVNjZ0dx0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 23": {
+        "title": "영업익 반토막에 300조 빚으로 '연명'... 코로나 직격탄 맞은 소상공인들",
+        "link": "https://news.google.com/articles/CBMiqwJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVDJTk4JTgxJUVDJTk3JTg1JUVDJTlEJUI1LSVFQiVCMCU5OCVFRCU4NiVBMCVFQiVBNyU4OSVFQyU5NyU5MC0zMDAlRUMlQTElQjAtJUVCJUI5JTlBJUVDJTlDJUJDJUVCJUExJTlDLSVFQyU5NyVCMCVFQiVBQSU4NS0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTgtJUVDJUE3JTgxJUVBJUIyJUE5JUVEJTgzJTg0LSVFQiVBNyU5RSVFQyU5RCU4MC0lRUMlODYlOEMlRUMlODMlODElRUElQjMlQjUlRUMlOUQlQjglRUIlOTMlQTQvYXItQUFTY0dvUNIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 24": {
+        "title": "치킨집 2000개, 커피 3000개, 편의점 5000개 늘었다…'코로나 치킨게임'",
+        "link": "https://news.google.com/articles/CBMihwJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVDJUI5JTk4JUVEJTgyJUE4JUVDJUE3JTkxLTIwMDAlRUElQjAlOUMtJUVDJUJCJUE0JUVEJTk0JUJDLTMwMDAlRUElQjAlOUMtJUVEJThFJUI4JUVDJTlEJTk4JUVDJUEwJTkwLTUwMDAlRUElQjAlOUMtJUVCJThBJTk4JUVDJTk3JTg4JUVCJThCJUE0LSVFQyVCRCU5NCVFQiVBMSU5QyVFQiU4MiU5OC0lRUMlQjklOTglRUQlODIlQTglRUElQjIlOEMlRUMlOUUlODQvYXItQUFTYmwxVdIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 25": {
+        "title": "블룸버그 “27일 전세계 확진 144만명... 역대 최다 기록”",
+        "link": "https://news.google.com/articles/CBMi3gFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVCJUI4JTk0JUVCJUEzJUI4JUVCJUIyJTg0JUVBJUI3JUI4LTI3JUVDJTlEJUJDLSVFQyVBMCU4NCVFQyU4NCVCOCVFQSVCMyU4NC0lRUQlOTklOTUlRUMlQTclODQtMTQ0JUVCJUE3JThDJUVCJUFBJTg1LSVFQyU5NyVBRCVFQiU4QyU4MC0lRUMlQjUlOUMlRUIlOEIlQTQtJUVBJUI4JUIwJUVCJUExJTlEL2FyLUFBU2NWVnXSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 26": {
+        "title": "“코로나바이러스, 뇌까지 퍼져 수개월 잔류… 장기 후유증 유발”",
+        "link": "https://news.google.com/articles/CBMijwJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4JUVCJUIwJTk0JUVDJTlEJUI0JUVCJTlGJUFDJUVDJThBJUE0LSVFQiU4NyU4QyVFQSVCOSU4QyVFQyVBNyU4MC0lRUQlOEQlQkMlRUMlQTAlQjgtJUVDJTg4JTk4JUVBJUIwJTlDJUVDJTlCJTk0LSVFQyU5RSU5NCVFQiVBNSU5OC0lRUMlOUUlQTUlRUElQjglQjAtJUVEJTlCJTg0JUVDJTlDJUEwJUVDJUE2JTlELSVFQyU5QyVBMCVFQiVCMCU5Qy9hci1BQVNhU3dY0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 27": {
+        "title": "코로나에도 소폭 개선된 기업 체감경기…\"수출 덕분\"",
+        "link": "https://news.google.com/articles/CBMi7QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvcG9saXRpY3MvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4JUVDJTk3JTkwJUVCJThGJTg0LSVFQyU4NiU4QyVFRCU4RiVBRC0lRUElQjAlOUMlRUMlODQlQTAlRUIlOTAlOUMtJUVBJUI4JUIwJUVDJTk3JTg1LSVFQyVCMiVCNCVFQSVCMCU5MCVFQSVCMiVCRCVFQSVCOCVCMC0lRUMlODglOTglRUMlQjYlOUMtJUVCJThEJTk1JUVCJUI2JTg0L2FyLUFBU2REM2jSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 28": {
+        "title": "미국 CDC, 코로나19 확진자 자가 격리 기간 단축",
+        "link": "https://news.google.com/articles/CBMizQFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbGl2aW5nLyVFQiVBRiVCOCVFQSVCNSVBRC1jZGMtJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4MTktJUVEJTk5JTk1JUVDJUE3JTg0JUVDJTlFJTkwLSVFQyU5RSU5MCVFQSVCMCU4MC0lRUElQjIlQTklRUIlQTYlQUMtJUVBJUI4JUIwJUVBJUIwJTg0LSVFQiU4QiVBOCVFQyVCNiU5NS9hci1BQVNjMGp50gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 29": {
+        "title": "英프리미어리그, 지난주 선수·직원 등 103명 코로나19 확진",
+        "link": "https://news.google.com/articles/CBMi-QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUU4JThCJUIxJUVEJTk0JTg0JUVCJUE2JUFDJUVCJUFGJUI4JUVDJTk2JUI0JUVCJUE2JUFDJUVBJUI3JUI4LSVFQyVBNyU4MCVFQiU4MiU5QyVFQyVBMyVCQy0lRUMlODQlQTAlRUMlODglOTgtJUVDJUE3JTgxJUVDJTlCJTkwLSVFQiU5MyVCMS0xMDMlRUIlQUElODUtJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4MTktJUVEJTk5JTk1JUVDJUE3JTg0L2FyLUFBU2J4THnSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 30": {
+        "title": "'코로나 확진' 방탄소년단 슈가 “너무 걱정 말아요” 안부 인사",
+        "link": "https://news.google.com/articles/CBMijQJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL2VudGVydGFpbm1lbnQvdHYvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4LSVFRCU5OSU5NSVFQyVBNyU4NC0lRUIlQjAlQTklRUQlODMlODQlRUMlODYlOEMlRUIlODUlODQlRUIlOEIlQTgtJUVDJThBJTg4JUVBJUIwJTgwLSVFQiU4NCU4OCVFQiVBQyVCNC0lRUElQjElQjElRUMlQTAlOTUtJUVCJUE3JTkwJUVDJTk1JTg0JUVDJTlBJTk0LSVFQyU5NSU4OCVFQiVCNiU4MC0lRUMlOUQlQjglRUMlODIlQUMvYXItQUFTYkw3QtIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 31": {
+        "title": "수백만원 지르며, 10원 아낀다…감염불안이 키운 '이중 소비'",
+        "link": "https://news.google.com/articles/CBMihQJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVDJTg4JTk4JUVCJUIwJUIxJUVCJUE3JThDJUVDJTlCJTkwLSVFQyVBNyU4MCVFQiVBNSVCNCVFQiVBOSVCMC0xMCVFQyU5QiU5MC0lRUMlOTUlODQlRUIlODIlODAlRUIlOEIlQTQtJUVBJUIwJTkwJUVDJTk3JUJDJUVCJUI2JTg4JUVDJTk1JTg4JUVDJTlEJUI0LSVFRCU4MiVBNCVFQyU5QSVCNC0lRUMlOUQlQjQlRUMlQTQlOTEtJUVDJTg2JThDJUVCJUI5JTg0L2FyLUFBU2R0ODjSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 32": {
+        "title": "여자스키 간판 시프린, 코로나19 양성…리엔츠 월드컵 불참",
+        "link": "https://news.google.com/articles/CBMigAJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9uZXdzLyVFQyU5NyVBQyVFQyU5RSU5MCVFQyU4QSVBNCVFRCU4MiVBNC0lRUElQjAlODQlRUQlOEMlOTAtJUVDJThCJTlDJUVEJTk0JTg0JUVCJUE2JUIwLSVFQyVCRCU5NCVFQiVBMSU5QyVFQiU4MiU5ODE5LSVFQyU5NiU5MSVFQyU4NCVCMS0lRUIlQTYlQUMlRUMlOTclOTQlRUMlQjglQTAtJUVDJTlCJTk0JUVCJTkzJTlDJUVDJUJCJUI1LSVFQiVCNiU4OCVFQyVCMCVCOC9hci1BQVNiTmpa0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 33": {
+        "title": "강추위·코로나에 줄어든 '이것'…소방관·청년·공무원 힘 모았다",
+        "link": "https://news.google.com/articles/CBMikwJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVBJUIwJTk1JUVDJUI2JTk0JUVDJTlDJTg0LSVFQyVCRCU5NCVFQiVBMSU5QyVFQiU4MiU5OCVFQyU5NyU5MC0lRUMlQTQlODQlRUMlOTYlQjQlRUIlOTMlQTAtJUVDJTlEJUI0JUVBJUIyJTgzLSVFQyU4NiU4QyVFQiVCMCVBOSVFQSVCNCU4MC0lRUMlQjIlQUQlRUIlODUlODQtJUVBJUIzJUI1JUVCJUFDJUI0JUVDJTlCJTkwLSVFRCU5RSU5OC0lRUIlQUElQTglRUMlOTUlOTglRUIlOEIlQTQvYXItQUFTYzdwWtIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 34": {
+        "title": "코로나19와 싸움, 오미크론 변이·먹는 치료제가 변수",
+        "link": "https://news.google.com/articles/CBMi7wFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L21hcmtldHMvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4MTklRUMlOTklODAtJUVDJThCJUI4JUVDJTlCJTgwLSVFQyU5OCVBNCVFQiVBRiVCOCVFRCU4MSVBQyVFQiVBMSVBMC0lRUIlQjMlODAlRUMlOUQlQjQtJUVCJUE4JUI5JUVCJThBJTk0LSVFQyVCOSU5OCVFQiVBMyU4QyVFQyVBMCU5QyVFQSVCMCU4MC0lRUIlQjMlODAlRUMlODglOTgvYXItQUFTYldCMtIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 35": {
+        "title": "국민이 뽑은 기재부 정책MVP 국민지원금 등 '코로나 3종 패키지'",
+        "link": "https://news.google.com/articles/CBMikQJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVBJUI1JUFEJUVCJUFGJUJDJUVDJTlEJUI0LSVFQiVCRCU5MSVFQyU5RCU4MC0lRUElQjglQjAlRUMlOUUlQUMlRUIlQjYlODAtJUVDJUEwJTk1JUVDJUIxJTg1bXZwLSVFQSVCNSVBRCVFQiVBRiVCQyVFQyVBNyU4MCVFQyU5QiU5MCVFQSVCOCU4OC0lRUIlOTMlQjEtJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4LTMlRUMlQTIlODUtJUVEJThDJUE4JUVEJTgyJUE0JUVDJUE3JTgwL2FyLUFBU2NqVDLSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 36": {
+        "title": "\"치료할 의사가 없다\"...오미크론 확산에 세계 인력난 가중",
+        "link": "https://news.google.com/articles/CBMi_QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVDJUI5JTk4JUVCJUEzJThDJUVEJTk1JUEwLSVFQyU5RCU5OCVFQyU4MiVBQyVFQSVCMCU4MC0lRUMlOTclODYlRUIlOEIlQTQtJUVDJTk4JUE0JUVCJUFGJUI4JUVEJTgxJUFDJUVCJUExJUEwLSVFRCU5OSU5NSVFQyU4MiVCMCVFQyU5NyU5MC0lRUMlODQlQjglRUElQjMlODQtJUVDJTlEJUI4JUVCJUEwJUE1JUVCJTgyJTlDLSVFQSVCMCU4MCVFQyVBNCU5MS9hci1BQVNjQ0Vp0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 37": {
+        "title": "비행기 여행 때, 코로나 예방에 가장 좋은 좌석은? (연구)",
+        "link": "https://news.google.com/articles/CBMi9gFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbGl2aW5nLyVFQiVCOSU4NCVFRCU5NiU4OSVFQSVCOCVCMC0lRUMlOTclQUMlRUQlOTYlODktJUVCJTk1JThDLSVFQyVCRCU5NCVFQiVBMSU5QyVFQiU4MiU5OC0lRUMlOTglODglRUIlQjAlQTklRUMlOTclOTAtJUVBJUIwJTgwJUVDJTlFJUE1LSVFQyVBMiU4QiVFQyU5RCU4MC0lRUMlQTIlOEMlRUMlODQlOUQlRUMlOUQlODAtJUVDJTk3JUIwJUVBJUI1JUFDL2FyLUFBU2JVcDPSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 38": {
+        "title": "아스널의 일본인 수비수 도미야스 코로나19 확진",
+        "link": "https://news.google.com/articles/CBMi4wFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9uZXdzLyVFQyU5NSU4NCVFQyU4QSVBNCVFQiU4NCU5MCVFQyU5RCU5OC0lRUMlOUQlQkMlRUIlQjMlQjglRUMlOUQlQjgtJUVDJTg4JTk4JUVCJUI5JTg0JUVDJTg4JTk4LSVFQiU4RiU4NCVFQiVBRiVCOCVFQyU5NSVCQyVFQyU4QSVBNC0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTgxOS0lRUQlOTklOTUlRUMlQTclODQvYXItQUFTOVp2ZdIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 39": {
+        "title": "베리베리 용승, 美 투어 중 코로나19 확진→음성 판정..귀국 후 자가격리 [공식]",
+        "link": "https://news.google.com/articles/CBMiwwJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL2VudGVydGFpbm1lbnQvbXVzaWMvJUVCJUIyJUEwJUVCJUE2JUFDJUVCJUIyJUEwJUVCJUE2JUFDLSVFQyU5QSVBOSVFQyU4QSVCOS0lRTclQkUlOEUtJUVEJTg4JUFDJUVDJTk2JUI0LSVFQyVBNCU5MS0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTgxOS0lRUQlOTklOTUlRUMlQTclODQtJUVDJTlEJThDJUVDJTg0JUIxLSVFRCU4QyU5MCVFQyVBMCU5NS0lRUElQjclODAlRUElQjUlQUQtJUVEJTlCJTg0LSVFQyU5RSU5MCVFQSVCMCU4MCVFQSVCMiVBOSVFQiVBNiVBQy0lRUElQjMlQjUlRUMlOEIlOUQvYXItQUFTYkdObdIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 40": {
+        "title": "코로나 이후 첫 500만 돌파… '스파이더맨' 정체가 드러났다",
+        "link": "https://news.google.com/articles/CBMi-AFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbGl2aW5nLyVFQyVCRCU5NCVFQiVBMSU5QyVFQiU4MiU5OC0lRUMlOUQlQjQlRUQlOUIlODQtJUVDJUIyJUFCLTUwMCVFQiVBNyU4Qy0lRUIlOEYlOEMlRUQlOEMlOEMtJUVDJThBJUE0JUVEJThDJThDJUVDJTlEJUI0JUVCJThEJTk0JUVCJUE3JUE4LSVFQyVBMCU5NSVFQyVCMiVCNCVFQSVCMCU4MC0lRUIlOTMlOUMlRUIlOUYlQUMlRUIlODIlQUMlRUIlOEIlQTQvYXItQUFTYlJCONIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 41": {
+        "title": "비에이라 감독 코로나 양성, 토트넘전 불참 [오피셜]",
+        "link": "https://news.google.com/articles/CBMi7QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9zb2NjZXIvJUVCJUI5JTg0JUVDJTk3JTkwJUVDJTlEJUI0JUVCJTlEJUJDLSVFQSVCMCU5MCVFQiU4RiU4NS0lRUMlQkQlOTQlRUIlQTElOUMlRUIlODIlOTgtJUVDJTk2JTkxJUVDJTg0JUIxLSVFRCU4NiVBMCVFRCU4QSVCOCVFQiU4NCU5OCVFQyVBMCU4NC0lRUIlQjYlODglRUMlQjAlQjgtJUVDJTk4JUE0JUVEJTk0JUJDJUVDJTg1JTlDL2FyLUFBUzluUTDSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 42": {
+        "title": "김총리 \"확진 감소세지만 안심 일러…내주 방역 조정 신중히 결정\"(종합)",
+        "link": "https://news.google.com/articles/CBMisAJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvcG9saXRpY3MvJUVBJUI5JTgwJUVDJUI0JTlEJUVCJUE2JUFDLSVFRCU5OSU5NSVFQyVBNyU4NC0lRUElQjAlOTAlRUMlODYlOEMlRUMlODQlQjglRUMlQTclODAlRUIlQTclOEMtJUVDJTk1JTg4JUVDJThCJUFDLSVFQyU5RCVCQyVFQiU5RiVBQy0lRUIlODIlQjQlRUMlQTMlQkMtJUVCJUIwJUE5JUVDJTk3JUFELSVFQyVBMSVCMCVFQyVBMCU5NS0lRUMlOEIlQTAlRUMlQTQlOTElRUQlOUUlODgtJUVBJUIyJUIwJUVDJUEwJTk1LSVFQyVBMiU4NSVFRCU5NSVBOS9hci1BQVNkSGFk0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 43": {
+        "title": "EPL 사무국, 코로나19로 29일 2경기 연기",
+        "link": "https://news.google.com/articles/CBMiqgFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9uZXdzL2VwbC0lRUMlODIlQUMlRUIlQUMlQjQlRUElQjUlQUQtJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4MTklRUIlQTElOUMtMjklRUMlOUQlQkMtMiVFQSVCMiVCRCVFQSVCOCVCMC0lRUMlOTclQjAlRUElQjglQjAvYXItQUFTYWNnSNIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 44": {
+        "title": "“오미크론 감염, 델타에도 면역력 4배 향상… 재감염 예방”",
+        "link": "https://news.google.com/articles/CBMi9QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUVDJTk4JUE0JUVCJUFGJUI4JUVEJTgxJUFDJUVCJUExJUEwLSVFQSVCMCU5MCVFQyU5NyVCQy0lRUIlOEQlQjglRUQlODMlODAlRUMlOTclOTAlRUIlOEYlODQtJUVCJUE5JUI0JUVDJTk3JUFEJUVCJUEwJUE1LTQlRUIlQjAlQjAtJUVEJTk2JUE1JUVDJTgzJTgxLSVFQyU5RSVBQyVFQSVCMCU5MCVFQyU5NyVCQy0lRUMlOTglODglRUIlQjAlQTkvYXItQUFTZGtVWdIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 45": {
+        "title": "美, 남아프리카 여행 제한 전면 해제…바이든 \"국익 판단\"",
+        "link": "https://news.google.com/articles/CBMi9QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUU3JUJFJThFLSVFQiU4MiVBOCVFQyU5NSU4NCVFRCU5NCU4NCVFQiVBNiVBQyVFQyVCOSVCNC0lRUMlOTclQUMlRUQlOTYlODktJUVDJUEwJTlDJUVEJTk1JTlDLSVFQyVBMCU4NCVFQiVBOSVCNC0lRUQlOTUlQjQlRUMlQTAlOUMtJUVCJUIwJTk0JUVDJTlEJUI0JUVCJTkzJUEwLSVFQSVCNSVBRCVFQyU5RCVCNS0lRUQlOEMlOTAlRUIlOEIlQTgvYXItQUFTZGxVa9IBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 46": {
+        "title": "伊서 신규 확진 8만명 근접…역대 최다 기록 경신",
+        "link": "https://news.google.com/articles/CBMi2wFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUU0JUJDJThBJUVDJTg0JTlDLSVFQyU4QiVBMCVFQSVCNyU5Qy0lRUQlOTklOTUlRUMlQTclODQtOCVFQiVBNyU4QyVFQiVBQSU4NS0lRUIlQUElQTklRUMlQTAlODQtJUVDJTk3JUFEJUVCJThDJTgwLSVFQyVCNSU5QyVFQiU4QiVBNC0lRUElQjglQjAlRUIlQTElOUQtJUVBJUIyJUJEJUVDJThCJUEwL2FyLUFBU2Rjb0LSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 47": {
+        "title": "中 \"미군, 일본 외 한국서도 방역수칙 어겨\"…日 집단감염에 유감 표명",
+        "link": "https://news.google.com/articles/CBMipAJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvd29ybGQvJUU0JUI4JUFELSVFQiVBRiVCOCVFQSVCNSVCMC0lRUMlOUQlQkMlRUIlQjMlQjgtJUVDJTk5JUI4LSVFRCU5NSU5QyVFQSVCNSVBRCVFQyU4NCU5QyVFQiU4RiU4NC0lRUIlQjAlQTklRUMlOTclQUQlRUMlODglOTglRUMlQjklOTktJUVDJTk2JUI0JUVBJUIyJUE4LSVFNiU5NyVBNS0lRUMlQTclOTElRUIlOEIlQTglRUElQjAlOTAlRUMlOTclQkMlRUMlOTclOTAtJUVDJTlDJUEwJUVBJUIwJTkwLSVFRCU5MSU5QyVFQiVBQSU4NS9hci1BQVNkZGFk0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 48": {
+        "title": "점심때 접종, 약 먹으며 근무…\"백신휴가 보장하라\"",
+        "link": "https://news.google.com/articles/CBMi5AFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVDJUEwJTkwJUVDJThCJUFDJUVCJTk1JThDLSVFQyVBMCU5MSVFQyVBMiU4NS0lRUMlOTUlQkQtJUVCJUE4JUI5JUVDJTlDJUJDJUVCJUE5JUIwLSVFQSVCNyVCQyVFQiVBQyVCNC0lRUIlQjAlQjElRUMlOEIlQTAlRUQlOUMlQjQlRUElQjAlODAtJUVCJUIzJUI0JUVDJTlFJUE1JUVEJTk1JTk4JUVCJTlEJUJDL2FyLUFBU2RtalLSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 49": {
+        "title": "\"프랑스 축구가 타락했다\" 관중 난동에 흔들리는 '빅5' 리그앙 [이종성의 스포츠 문화&산업]",
+        "link": "https://news.google.com/articles/CBMi8QJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9zb2NjZXIvJUVEJTk0JTg0JUVCJTlFJTkxJUVDJThBJUE0LSVFQyVCNiU5NSVFQSVCNSVBQyVFQSVCMCU4MC0lRUQlODMlODAlRUIlOUQlQkQlRUQlOTYlODglRUIlOEIlQTQtJUVBJUI0JTgwJUVDJUE0JTkxLSVFQiU4MiU5QyVFQiU4RiU5OSVFQyU5NyU5MC0lRUQlOUQlOTQlRUIlOTMlQTQlRUIlQTYlQUMlRUIlOEElOTQtJUVCJUI5JTg1NS0lRUIlQTYlQUMlRUElQjclQjglRUMlOTUlOTktJUVDJTlEJUI0JUVDJUEyJTg1JUVDJTg0JUIxJUVDJTlEJTk4LSVFQyU4QSVBNCVFRCU4RiVBQyVFQyVCOCVBMC0lRUIlQUMlQjglRUQlOTklOTQtJUVDJTgyJUIwJUVDJTk3JTg1L2FyLUFBU2JFQ2nSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 50": {
+        "title": "병상 가동률만 강조하는 정부 두고 현장선 분노 목소리",
+        "link": "https://news.google.com/articles/CBMigAJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVCJUIzJTkxJUVDJTgzJTgxLSVFQSVCMCU4MCVFQiU4RiU5OSVFQiVBNSVBMCVFQiVBNyU4Qy0lRUElQjAlOTUlRUMlQTElQjAlRUQlOTUlOTglRUIlOEElOTQtJUVDJUEwJTk1JUVCJUI2JTgwLSVFQiU5MSU5MCVFQSVCMyVBMC0lRUQlOTglODQlRUMlOUUlQTUlRUMlODQlQTAtJUVCJUI2JTg0JUVCJTg1JUI4LSVFQiVBQSVBOSVFQyU4NiU4QyVFQiVBNiVBQy9hci1BQVNjbFZ00gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 51": {
+        "title": "린델로프가 결장한 이유",
+        "link": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3Lm1hbnV0ZC5jb20va28vbmV3cy9kZXRhaWwvdmljdG9yLWxpbmRlbG9mLXJ1bGVkLW91dC1vZi1uZXdjYXN0bGUtYXdheS1nYW1lLWR1ZS10by1jb3ZpZC0xOdIBamh0dHBzOi8vd3d3Lm1hbnV0ZC5jb20va28vYW1wL25ld3MvZGV0YWlsL3ZpY3Rvci1saW5kZWxvZi1ydWxlZC1vdXQtb2YtbmV3Y2FzdGxlLWF3YXktZ2FtZS1kdWUtdG8tY292aWQtMTk?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 52": {
+        "title": "\"심장 아파 수능 못봐도 책임은 부모탓\" 청소년 백신에 운다",
+        "link": "https://news.google.com/articles/CBMiigJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVDJThCJUFDJUVDJTlFJUE1LSVFQyU5NSU4NCVFRCU4QyU4Qy0lRUMlODglOTglRUIlOEElQTUtJUVCJUFBJUJCJUVCJUI0JTkwJUVCJThGJTg0LSVFQyVCMSU4NSVFQyU5RSU4NCVFQyU5RCU4MC0lRUIlQjYlODAlRUIlQUElQTglRUQlODMlOTMtJUVDJUIyJUFEJUVDJTg2JThDJUVCJTg1JTg0LSVFQiVCMCVCMSVFQyU4QiVBMCVFQyU5NyU5MC0lRUMlOUElQjQlRUIlOEIlQTQvYXItQUFTZGNLN9IBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 53": {
+        "title": "롯데, 이웃사랑 성금 70억원 사회복지공동모금회에 기탁",
+        "link": "https://news.google.com/articles/CBMigwJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVCJUExJUFGJUVCJThEJUIwLSVFQyU5RCVCNCVFQyU5QiU4MyVFQyU4MiVBQyVFQiU5RSU5MS0lRUMlODQlQjElRUElQjglODgtNzAlRUMlOTYlQjUlRUMlOUIlOTAtJUVDJTgyJUFDJUVEJTlBJThDJUVCJUIzJUI1JUVDJUE3JTgwJUVBJUIzJUI1JUVCJThGJTk5JUVCJUFBJUE4JUVBJUI4JTg4JUVEJTlBJThDJUVDJTk3JTkwLSVFQSVCOCVCMCVFRCU4MyU4MS9hci1BQVNkazR60gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 54": {
+        "title": "오후 6시까지 3709명 확진…어제보다 1094명 많아",
+        "link": "https://news.google.com/articles/CBMi4wFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVDJTg2JThEJUVCJUIzJUI0JUVDJTk4JUE0JUVEJTlCJTg0LTYlRUMlOEIlOUMlRUElQjklOEMlRUMlQTclODAtMzcwOSVFQiVBQSU4NS0lRUQlOTklOTUlRUMlQTclODQlRTIlODAlQTYlRUMlOTYlQjQlRUMlQTAlOUMlRUIlQjMlQjQlRUIlOEIlQTQtMTA5NCVFQiVBQSU4NS0lRUIlQTclOEUlRUMlOTUlODQvYXItQUFTY3lVSdIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 55": {
+        "title": "이재명 \"윤석열, 주1회 토론하자…국민들 보시고 판단해야\"",
+        "link": "https://news.google.com/articles/CBMigAJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3MvbmF0aW9uYWwvJUVDJTlEJUI0JUVDJTlFJUFDJUVCJUFBJTg1LSVFQyU5QyVBNCVFQyU4NCU5RCVFQyU5NyVCNC0lRUMlQTMlQkMxJUVEJTlBJThDLSVFRCU4NiVBMCVFQiVBMSVBMCVFRCU5NSU5OCVFQyU5RSU5MC0lRUElQjUlQUQlRUIlQUYlQkMlRUIlOTMlQTQtJUVCJUIzJUI0JUVDJThCJTlDJUVBJUIzJUEwLSVFRCU4QyU5MCVFQiU4QiVBOCVFRCU5NSVCNCVFQyU5NSVCQy9hci1BQVNjcTdi0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 56": {
+        "title": "kt 우승 드라마와 술자리 파문, 2021 KBO 리그의 명과 암 [스포츠결산①]",
+        "link": "https://news.google.com/articles/CBMiigJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9uZXdzL2t0LSVFQyU5QSVCMCVFQyU4QSVCOS0lRUIlOTMlOUMlRUIlOUQlQkMlRUIlQTclODglRUMlOTklODAtJUVDJTg4JUEwJUVDJTlFJTkwJUVCJUE2JUFDLSVFRCU4QyU4QyVFQiVBQyVCOC0yMDIxLWtiby0lRUIlQTYlQUMlRUElQjclQjglRUMlOUQlOTgtJUVCJUFBJTg1JUVBJUIzJUJDLSVFQyU5NSU5NC0lRUMlOEElQTQlRUQlOEYlQUMlRUMlQjglQTAlRUElQjIlQjAlRUMlODIlQjAvYXItQUFTYks1S9IBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 57": {
+        "title": "12월 소비심리도 4개월 만에 하락세로",
+        "link": "https://news.google.com/articles/CBMiuwFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvMTIlRUMlOUIlOTQtJUVDJTg2JThDJUVCJUI5JTg0JUVDJThCJUFDJUVCJUE2JUFDJUVCJThGJTg0LTQlRUElQjAlOUMlRUMlOUIlOTQtJUVCJUE3JThDJUVDJTk3JTkwLSVFRCU5NSU5OCVFQiU5RCVCRCVFQyU4NCVCOCVFQiVBMSU5Qy9hci1BQVNjSHdJ0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 58": {
+        "title": "문체부, 2022년 스포츠산업에 총 2097억 규모 '1%대 저리' 금융지원",
+        "link": "https://news.google.com/articles/CBMigAJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9uZXdzLyVFQiVBQyVCOCVFQyVCMiVCNCVFQiVCNiU4MC0yMDIyJUVCJTg1JTg0LSVFQyU4QSVBNCVFRCU4RiVBQyVFQyVCOCVBMCVFQyU4MiVCMCVFQyU5NyU4NSVFQyU5NyU5MC0lRUMlQjQlOUQtMjA5NyVFQyU5NiVCNS0lRUElQjclOUMlRUIlQUElQTgtMS0lRUIlOEMlODAtJUVDJUEwJTgwJUVCJUE2JUFDLSVFQSVCOCU4OCVFQyU5QyVCNSVFQyVBNyU4MCVFQyU5QiU5MC9hci1BQVNhUElR0gEA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 59": {
+        "title": "전광인 합류, 펠리페 입국…현대캐피탈, 후반기 판도 변화 이끈다",
+        "link": "https://news.google.com/articles/CBMimgJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9uZXdzLyVFQyVBMCU4NCVFQSVCNCU5MSVFQyU5RCVCOC0lRUQlOTUlQTklRUIlQTUlOTgtJUVEJThFJUEwJUVCJUE2JUFDJUVEJThFJTk4LSVFQyU5RSU4NSVFQSVCNSVBRC0lRUQlOTglODQlRUIlOEMlODAlRUMlQkElOTAlRUQlOTQlQkMlRUQlODMlODgtJUVEJTlCJTg0JUVCJUIwJTk4JUVBJUI4JUIwLSVFRCU4QyU5MCVFQiU4RiU4NC0lRUIlQjMlODAlRUQlOTklOTQtJUVDJTlEJUI0JUVCJTgxJTg4JUVCJThCJUE0L2FyLUFBU2Nsc03SAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 60": {
+        "title": "'콘테의 기적' 토트넘 챔스가 보인다... 8%였던 가능성 '급등'",
+        "link": "https://news.google.com/articles/CBMi-QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9zb2NjZXIvJUVDJUJEJTk4JUVEJTg1JThDJUVDJTlEJTk4LSVFQSVCOCVCMCVFQyVBMCU4MS0lRUQlODYlQTAlRUQlOEElQjglRUIlODQlOTgtJUVDJUIxJTk0JUVDJThBJUE0JUVBJUIwJTgwLSVFQiVCMyVCNCVFQyU5RCVCOCVFQiU4QiVBNC04LSVFQyU5OCU4MCVFQiU4RCU5OC0lRUElQjAlODAlRUIlOEElQTUlRUMlODQlQjEtJUVBJUI4JTg5JUVCJTkzJUIxL2FyLUFBU2NydFHSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 61": {
+        "title": "김하성 뛰던 곳에서 미식축구를? 펫코파크의 놀라운 변신",
+        "link": "https://news.google.com/articles/CBMihQJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL3Nwb3J0cy9tbGIvJUVBJUI5JTgwJUVEJTk1JTk4JUVDJTg0JUIxLSVFQiU5QiVCMCVFQiU4RCU5OC0lRUElQjMlQjMlRUMlOTclOTAlRUMlODQlOUMtJUVCJUFGJUI4JUVDJThCJTlEJUVDJUI2JTk1JUVBJUI1JUFDJUVCJUE1JUJDLSVFRCU4RSVBQiVFQyVCRCU5NCVFRCU4QyU4QyVFRCU4MSVBQyVFQyU5RCU5OC0lRUIlODYlODAlRUIlOUQlQkMlRUMlOUElQjQtJUVCJUIzJTgwJUVDJThCJUEwL2FyLUFBU2JYcWjSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 62": {
+        "title": "유영상 SKT 대표이사, 과학기술훈장(웅비장) 수훈",
+        "link": "https://news.google.com/articles/CBMi4AFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVDJTlDJUEwJUVDJTk4JTgxJUVDJTgzJTgxLXNrdC0lRUIlOEMlODAlRUQlOTElOUMlRUMlOUQlQjQlRUMlODIlQUMtJUVBJUIzJUJDJUVEJTk1JTk5JUVBJUI4JUIwJUVDJTg4JUEwJUVEJTlCJTg4JUVDJTlFJUE1LSVFQyU5QiU4NSVFQiVCOSU4NCVFQyU5RSVBNS0lRUMlODglOTglRUQlOUIlODgvYXItQUFTY3FFTtIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 63": {
+        "title": "'코로나 1호 해고' 아시아나케이오, 행정소송 냈지만 'KO'",
+        "link": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmxhYm9ydG9kYXkuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwNDUzOdIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 64": {
+        "title": "코로나 사태가 전세계적으로 교육에 끼친 심각한 영향",
+        "link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vd3d3Lmhydy5vcmcva28vbmV3cy8yMDIxLzA1LzE3LzM3ODY3M9IBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 65": {
+        "title": "코로나19 극복 응원하는 '코코댄스' 눈길…",
+        "link": "https://news.google.com/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMTExMjIwODU1NDfSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 66": {
+        "title": "북한: 코로나19 로 인해 조직적인 인권탄압 더욱 강화되다",
+        "link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vd3d3Lmhydy5vcmcva28vbmV3cy8yMDIxLzAxLzEzLzM3NzQwONIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 67": {
+        "title": "[IBS 코로나19 리포트 시즌2] 데이터 분석과 시뮬레이션으로 예측하는 코로나19 확산",
+        "link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vbS5kb25nYXNjaWVuY2UuY29tL25ld3MucGhwP2lkeD00NzYwNNIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 68": {
+        "title": "코로나바이러스감염증-19 대응에서의 인권 문제",
+        "link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vd3d3Lmhydy5vcmcva28vbmV3cy8yMDIwLzAzLzE5LzMzOTY1NNIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 69": {
+        "title": "與 \"위드 코로나 전환\" vs 野 \"백신 이상반응 해결\" - 보건의료문화를 선도하는 데일리메디",
+        "link": "https://news.google.com/articles/CBMiMWh0dHA6Ly93d3cuZGFpbHltZWRpLmNvbS9kZXRhaWwucGhwP251bWJlcj04NzQ5ODDSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 70": {
+        "title": "[IBS 코로나19 리포트 시즌2] 인체는 코로나19에 어떤 면역반응을 나타내나",
+        "link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vbS5kb25nYXNjaWVuY2UuY29tL25ld3MucGhwP2lkeD00ODQzMNIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 71": {
+        "title": "[코로나 속 눈물-항공④] '부당해고' 천막 출근 아시아나 KO직원들",
+        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmFzaWF0aW1lLmNvLmtyL2FydGljbGUvMjAyMTAxMTM4MTIyNTDSAQA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 72": {
+        "title": "코로나바이러스감염증-19: 인권 관련 체크리스트",
+        "link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vd3d3Lmhydy5vcmcva28vbmV3cy8yMDIwLzA0LzE0LzM0MDc3MNIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 73": {
+        "title": "\"코로나는 나한테 오면 KO된다\" 주장한 허경영 하늘궁에서도 확진자가 나왔다",
+        "link": "https://news.google.com/articles/CAIiEPJeT_eQGlL8ISVx__jIAvYqGQgEKhAIACoHCAowktXcCjCHoM4BMNXxpQY?uo=CAUiRWh0dHBzOi8vd3d3Lmh1ZmZpbmd0b25wb3N0LmtyL2VudHJ5L3N0b3J5X2tyXzVmNWRjOWQzYzViNjI4NzRiYzFlMTY3N9IBAA&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 74": {
+        "title": "소주성에 체력 잃은 한국 경제…코로나19 충격은 KO펀치",
+        "link": "https://news.google.com/articles/CAIiEHCP4YvdUlkTK0Kc8lgDoVsqGQgEKhAIACoHCAow2t-aCDDArqABMNST5AU?uo=CAUiNmh0dHBzOi8vd3d3Lm1rLmNvLmtyL25ld3MvZWNvbm9teS92aWV3LzIwMjAvMDQvMzgzMTQ5L9IBAA&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 75": {
+        "title": "코로나-19 대응, 인권을 존중해야",
+        "link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vd3d3Lmhydy5vcmcva28vbmV3cy8yMDIwLzAzLzE5LzMzOTY1NdIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 76": {
+        "title": "아시아나KO 해고노동자 “코로나 빌미로 농성천막 강제철거는 인권 침해”",
+        "link": "https://news.google.com/articles/CBMiRmh0dHBzOi8vbS5raGFuLmNvLmtyL25hdGlvbmFsL25hdGlvbmFsLWdlbmVyYWwvYXJ0aWNsZS8yMDIwMDYxNzE1NDUwMDHSAUpodHRwczovL20ua2hhbi5jby5rci9uYXRpb25hbC9uYXRpb25hbC1nZW5lcmFsL2FydGljbGUvMjAyMDA2MTcxNTQ1MDAxL2FtcA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 77": {
+        "title": "코로나19 대응 앱이 인권을 위협한다",
+        "link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vd3d3Lmhydy5vcmcva28vbmV3cy8yMDIwLzA1LzEzLzM3NTEzMNIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 78": {
+        "title": "중국만의 문제가 아니다 코로나19는 아시아를 피폐화시킬 수 있다",
+        "link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vd3d3Lmhydy5vcmcva28vbmV3cy8yMDIwLzA0LzEzLzM0MDc2OdIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 79": {
+        "title": "줄줄이 어닝쇼크...코로나19에 KO 당한 백화점 1분기 실적",
+        "link": "https://news.google.com/articles/CAIiELSaoTLBisWIOylDmvojSa0qGQgEKhAIACoHCAowsuLcCjDz7M4BMPTahgI?uo=CAUiKmh0dHBzOi8vd3d3LmV0b2RheS5jby5rci9uZXdzL3ZpZXcvMTg5MzQ1OdIBAA&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 80": {
+        "title": "[단독] 코로나19 백신, 일반인도 '합법 접종' 가능",
+        "link": "https://news.google.com/articles/CAIiEFHfrZsytNxCG0HFG1824UEqGQgEKhAIACoHCAowra2FCzDHx4IDMJKuiAY?uo=CAUiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjEwNDI4MDEzOTXSAQA&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "News 81": {
+        "title": "[팩트체크]정부가 확보한 백신 4종 종류와 원리",
+        "link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vbS5kb25nYXNjaWVuY2UuY29tL25ld3MucGhwP2lkeD00MjE1NdIBAA?hl=ko&gl=KR&ceid=KR%3Ako"
+    }
+}
