@@ -44,3 +44,9 @@
 
 
 📚 Chapter 17 : [DataFrame xlsx확장자로 저장하고 읽어보기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Part2_Data_Processing_Visualization/ch17/ch17.ipynb)
+
+📚 Chapter 18 : [DataFrame 내용 살펴보기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Part2_Data_Processing_Visualization/ch18/ch18.ipynb)
+
+📚 Chapter 19,20 : [DataFrame 요약정보 살펴보기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Part2_Data_Processing_Visualization/ch19_20/ch19_20_데이터프레임_요약정보_확인하기.ipynb)
+
+📚 Chapter 21 : [DataFrame Column활용하기](https://github.com/J-hoplin1/Useful_Python_Skills/blob/main/Part2_Data_Processing_Visualization/ch21/ch21_Column_다루기.ipynb)
